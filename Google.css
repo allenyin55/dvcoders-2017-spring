@@ -6,25 +6,14 @@ body{
   margin: 100px auto;
 }
 
-#logo{
-  display: block;
-  margin: 0 auto;
+/* we need a rule here to center the logo and change its size */
 
-  height:92px;
-}
 
 #search_bar{
   display:block;
   margin: 0 auto;
 
-  background: #fff;
-  color: #222;
-  
-  border: 1px solid #d9d9d9;
-  font-size: 25px;
-
-  width: 561px;
-  height:36px;
+/* add more here to make search bar look pretty */
 }
 
 .btn_group{
@@ -32,10 +21,4 @@ body{
   text-align: center;
 }
 
-.btn{
-  height:36px;
-  background-color: #f2f2f2;
-  border: 1px solid #f2f2f2;
-  border-radius: 2px;
-  color: #757575;
-}
+/* we need a rule here to make buttons look cleaner */
